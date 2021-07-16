@@ -1,2 +1,2 @@
 # MySite
-As part of the "Web Design" course, I built a site for a grocery store where I worked.
+As part of the "Web Design" course I built and designed a website for a grocery store where I used to work.
