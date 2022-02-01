@@ -12,3 +12,6 @@ As part of the "Web Design" course I built and designed a website for a grocery 
 ```terminal
 $ https://github.com/sagis148/Grocery-store-website.git
 ```
+1. Unzip **site** folder.
+2. Open the **site** folder in your IDE.
+3. run **index.html** (or any other html file).
