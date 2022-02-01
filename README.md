@@ -10,5 +10,5 @@ As part of the "Web Design" course I built and designed a website for a grocery 
 
 ## clone or download
 ```terminal
-$ https://github.com/sagis148/mygeographyquiz.git
+$ https://github.com/sagis148/Grocery-store-website.git
 ```
